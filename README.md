@@ -1,2 +1,4 @@
-# flask-postgresql-pgadmin-with-docker-vscode-on-window-os
-Flask, PostgreSql, pgAdmin with Docker, VScode on Window OS
+# Flask, PostgreSql, pgAdmin with Docker, VScode on Window OS
+
+### Youtube video: https://youtu.be/GywF9vihplU
+### Blog: https://levanlau.net
